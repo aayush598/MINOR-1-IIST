@@ -4,3 +4,9 @@ release KEY_LEFT_GUI
 delay 500
 print cmd
 delay 500
+press KEY_LEFT_CTRL
+press KEY_LEFT_SHIFT
+press KEY_RETURN
+delay 200
+releaseAll
+delay 2000
