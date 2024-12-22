@@ -1,19 +1,19 @@
-delay 500
 press KEY_LEFT_GUI
+delay 200
 release KEY_LEFT_GUI
 delay 500
-print cmd
+print powershell
 delay 500
 press KEY_LEFT_CTRL
 press KEY_LEFT_SHIFT
 press KEY_RETURN
-release KEY_RETURN
-release KEY_LEFT_SHIFT
-release KEY_LEFT_CTRL
+delay 200
+releaseAll
 delay 2000
 press KEY_LEFT_ARROW
+delay 200
 release KEY_LEFT_ARROW
-delay 200
+delay 500
 press KEY_RETURN
-release KEY_RETURN
 delay 200
+release KEY_RETURN
