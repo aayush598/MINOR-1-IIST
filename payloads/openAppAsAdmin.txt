@@ -6,9 +6,9 @@ delay 500
 press KEY_LEFT_CTRL
 press KEY_LEFT_SHIFT
 press KEY_RETURN
-release KEY_LEFT_CTRL
-release KEY_LEFT_SHIFT
 release KEY_RETURN
+release KEY_LEFT_SHIFT
+release KEY_LEFT_CTRL
 delay 2000
 press KEY_LEFT_ARROW
 release KEY_LEFT_ARROW
