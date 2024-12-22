@@ -1,3 +1,4 @@
+delay 500
 press KEY_LEFT_GUI
 release KEY_LEFT_GUI
 delay 500
