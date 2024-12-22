@@ -1,5 +1,4 @@
 press KEY_LEFT_GUI
-delay 200
 release KEY_LEFT_GUI
 delay 500
 print cmd
@@ -7,20 +6,13 @@ delay 500
 press KEY_LEFT_CTRL
 press KEY_LEFT_SHIFT
 press KEY_RETURN
-delay 200
 release KEY_LEFT_CTRL
 release KEY_LEFT_SHIFT
 release KEY_RETURN
 delay 2000
 press KEY_LEFT_ARROW
-delay 200
 release KEY_LEFT_ARROW
-press KEY_LEFT_ARROW
-delay 500
-release KEY_LEFT_ARROW
-press KEY_RETURN
 delay 200
-release KEY_RETURN
 press KEY_RETURN
-delay 200
 release KEY_RETURN
+delay 200
