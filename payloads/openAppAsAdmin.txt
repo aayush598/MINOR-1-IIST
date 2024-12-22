@@ -2,3 +2,5 @@ press KEY_LEFT_GUI
 delay 200
 release KEY_LEFT_GUI
 delay 500
+print cmd
+delay 500
